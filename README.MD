@@ -1,4 +1,4 @@
-#Script 1
+Ejercicio n°1
  Git grep -e 'x' grepdata.txt
 grepdata.txt:aztecwrestling@example.com
 grepdata.txt:714-555-7870 x7309
